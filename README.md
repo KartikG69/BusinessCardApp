@@ -1,5 +1,5 @@
 # Business Card App
-I made the business card sample project given in the 'Android Basics with Compose' course
+I made the business card project given in the 'Android Basics with Compose' course
 offered by Google. I used Column and Row elements in this Project
 
 • Column element is used to place our items vertically on the screen.\
